@@ -1,5 +1,5 @@
-# Welcome to My GitHub Profile
+# 别看了，还没什么东西
 
-![My Background Image](./images/86634053_p0.png)
+代码全是从chatpgt那复制粘贴的。。。
 
-Hello, I'm Sora-Niimi, and welcome to my GitHub profile!
+

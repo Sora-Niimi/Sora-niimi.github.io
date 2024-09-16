@@ -4,8 +4,6 @@
   <!-- 这是一个用图片作背景的区域 -->
 </div>
 
-<p>Welcome to my GitHub profile! I enjoy coding and exploring new technologies.</p>
-
 代码全是从chatpgt那复制粘贴的。。。
 
 
